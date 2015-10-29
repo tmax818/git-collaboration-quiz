@@ -2,10 +2,9 @@
 
 1. Test your understanding of basic git collaboration commands
 
-???
-
 # Basic Git Collaboration Quiz
 
+???
 
 ?: It's a good idea to work directly on your `master` branch.
 
