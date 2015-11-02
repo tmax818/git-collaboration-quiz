@@ -8,7 +8,7 @@
 
 ?: It's a good idea to work directly on your `master` branch.
 
-( )True (X)False
+( )True(X)False
 
 ?: Which of the following commands will create a new branch called `brand_new`?
 
