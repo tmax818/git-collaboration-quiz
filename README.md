@@ -30,7 +30,7 @@
 
 ?: Which of the following commands will delete the branch `brand_new`
 
-(X)git branch -d brand_new
-( )git delete brand_new
+(X)`git branch -d brand_new`
+( )`git delete brand_new`
 
 ???
