@@ -22,6 +22,11 @@
 (X)True
 ( )False
 
+?: Let's say we want to merge `brand_new` into `master`. Which branch should we be on when we run the command `git merge brand_new`?
+
+( )`brand_new`
+(X)`master`
+
 
 ?: Which of the following commands will delete the branch `brand_new`
 
