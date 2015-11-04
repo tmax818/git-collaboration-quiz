@@ -10,7 +10,7 @@
 
 ( )True(X)False
 
-?: Which of the following commands will create a new branch called `brand_new`?
+?: Which of the following commands will create a new branch called `brand_new` and also check it out?
 
 (X)`git checkout -b brand_new` ( )`git branch brand_new` ( )`git checkout brand_new`
 
