@@ -29,4 +29,4 @@
 
 ???
 
-<a href='https://learn.co/lessons/git-collaboration-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-collaboration-quiz' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
