@@ -1,6 +1,6 @@
 ## Objectives
 
-1. Test your understanding of basic git collaboration commands
+1. Test your understanding of basic git collaboration commands. If there is anything in this quiz that you're not familiar with, Google around and look for the answer. Googling is an important skill for developers; start practicing it!
 
 ???
 
